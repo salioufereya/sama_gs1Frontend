@@ -2,3 +2,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+
+
+
+.primarycolor {
+    background-color: #002C6c;
+}
+
+.primarycolorText {
+    color: #002C6c;
+}
+
+.bgOrange1{
+    background-color: #F26334;
+}
+.orange1 {
+    color: #F26334;
+}
+
+.bleu3 {
+    color: #00799E;
+}
+
+.borderInput {
+    border: #F26334;
+    
+}
